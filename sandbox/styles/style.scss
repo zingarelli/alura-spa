@@ -1,0 +1,34 @@
+$cor-primaria: #e29dab;
+$cor-secundaria: #99ef99;
+
+@mixin reset {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin background-e-texto($cor-background, $cor-texto) {
+    width: 50%;
+    background-color: $cor-background;
+    .texto {
+        font-size: 128px;
+        margin-top: 40%;
+        text-align: center;
+        color: $cor-texto;
+    }
+}
+
+body {
+    // @include reset;
+    @include reset();
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    .esquerdo {
+        @include background-e-texto($cor-primaria, $cor-secundaria);
+    }
+    .direito {
+        @include background-e-texto($cor-secundaria, $cor-primaria);
+    }
+}
