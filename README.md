@@ -23,9 +23,9 @@ Instrutor: **[Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-4589251
 
 Você pode ver o projeto online [clicando aqui](https://zingarelli.github.io/alura-spa/).
 
-Durante o curso, utilizamos o SASS para estilizar a página inicial de uma empresa ficctícia chamada "Alura Spa". O conteúdo HTML, imagens e os textos foram inicialmente disponibilizados. Posteriormente, foram adicionadas algumas classes ao HTML e criamos diversos arquivos `.scss` e `.sass` para criar estilizar as seções da página.
+Durante o curso, utilizamos o Sass para estilizar a página inicial de uma empresa ficctícia chamada "Alura Spa". O conteúdo HTML, imagens e os textos foram inicialmente disponibilizados. Posteriormente, foram adicionadas algumas classes ao HTML e criamos diversos arquivos `.scss` e `.sass` para criar estilizar as seções da página.
 
-O projeto também inclui uma pasta chamada "sandbox", onde treinamos os conceitos iniciais a respeito do SASS, como variáveis, aninhamento e mixins, que são explicados com mais detalhes na próxima seção deste README.
+O projeto também inclui uma pasta chamada "sandbox", onde treinamos os conceitos iniciais a respeito do Sass, como variáveis, aninhamento e mixins, que são explicados com mais detalhes na próxima seção deste README.
 
 A screenshot abaixo mostra a página completa que foi desenvolvida:
 
@@ -267,3 +267,23 @@ O SASS/SCSS também aceita condicionais if/else para controlar blocos que serão
     @else 
         background: linear-gradient($cores)
 ```
+
+---
+
+## Credits
+
+This project was developed in a course from [Alura](https://www.alura.com.br) called "SASS: syntactically spectacular CSS" ([SASS: CSS sintaticamente espetacular](https://www.alura.com.br/curso-online-sass-css-sintaticamente-espetacular), in portuguese).
+
+Instructor: **[Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/)**.
+
+## Project details
+
+You can check the page online [clicking here](https://zingarelli.github.io/alura-spa/).
+
+During the course, we used Sass to add styles to the landing page of a fictitious company called "Alura Spa". Texts, images and the HTML structure were provided, with us adding classes to the HTML and creating several `.scss` and `.sass` files to add styles to each section of the page.
+
+This project also has a folder called "sandbox", in which we trained the initial concepts regarding Sass, such as variables, nesting and mixins.
+
+Below is a screenshot of the full landing page developed:
+
+![landing page created](https://user-images.githubusercontent.com/19349339/221033104-9deaaca0-c864-4057-bfa3-9da3d42db2a7.png)
