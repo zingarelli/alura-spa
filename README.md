@@ -27,6 +27,8 @@ Durante o curso, utilizamos o SASS para estilizar a página inicial de uma empre
 
 O projeto também inclui uma pasta chamada "sandbox", onde treinamos os conceitos iniciais a respeito do SASS, como variáveis, aninhamento e mixins, que são explicados com mais detalhes na próxima seção deste README.
 
+![página criada no projeto](https://user-images.githubusercontent.com/19349339/221033104-9deaaca0-c864-4057-bfa3-9da3d42db2a7.png)
+
 ## O que eu aprendi ✔️
 
 SASS significa **S**yntactically **A**wesome **S**tyle **S**heets.
